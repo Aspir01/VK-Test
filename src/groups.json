@@ -1,0 +1,100 @@
+{
+    "result": 1,
+    "data": [
+        {
+            "id": 1,
+            "name": "Группа 1",
+            "closed": true,
+            "avatar_color": "blue",
+            "members_count": 32,
+            "friends": [
+                {
+                    "first_name": "Aslan",
+                    "last_name": "Shangeraev"
+                },
+                {
+                    "first_name": "Ivan",
+                    "last_name": "Nikolaev"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Группа 2",
+            "closed": false,
+            "avatar_color": "red",
+            "members_count": 28,
+            "friends": [
+                {
+                    "first_name": "Vladimir",
+                    "last_name": "Knyazev"
+                },
+                {
+                    "first_name": "Alexey",
+                    "last_name": "Petrov"
+                },
+                {
+                    "first_name": "Peter",
+                    "last_name": "Parker"
+                },
+                {
+                    "first_name": "Dmitriy",
+                    "last_name": "Maksimov"
+                },
+                {
+                    "first_name": "Marina",
+                    "last_name": "Ivanova"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Группа 3",
+            "closed": false,
+            "members_count": 11,
+            "avatar_color": "green",
+            "friends": [
+                {
+                    "first_name": "Nikita",
+                    "last_name": "Aleksandrov"
+                },
+                {
+                    "first_name": "Gasan",
+                    "last_name": "Gusenov"
+                },
+                {
+                    "first_name": "Katya",
+                    "last_name": "Andreeva"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Группа 4",
+            "closed": false,
+            "members_count": 11,
+            "friends": []
+        },
+        {
+            "id": 5,
+            "name": "Группа 5",
+            "closed": true,
+            "members_count": 11,
+            "avatar_color": "blue",
+            "friends": [
+                {
+                    "first_name": "Igor",
+                    "last_name": "Fedorov"
+                },
+                {
+                    "first_name": "Artur",
+                    "last_name": "Pirojkov"
+                },
+                {
+                    "first_name": "Anastasiya",
+                    "last_name": "Valentinova"
+                }
+            ]
+        }
+    ]
+}
